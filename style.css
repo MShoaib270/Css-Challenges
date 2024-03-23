@@ -8,6 +8,7 @@ body{
     Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 21px;
     margin: 0;
+    display:grid;
 }
 .Wrapping content{
     text-align: center;
